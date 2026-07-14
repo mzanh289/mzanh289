@@ -1,16 +1,75 @@
-## Hi there 👋
+# Hi there 👋, I'm Danh
 
-<!--
-**mzanh289/mzanh289** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-year Software Engineering student at Ho Chi Minh City University of Technology and Education (HCMUTE).
 
-Here are some ideas to get you started:
+💻 Passionate about Backend Development, Web Applications, and Software Engineering. I enjoy building scalable applications, learning new technologies, and continuously improving my programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🌱 Currently learning **Java Spring Boot**, **React**, and **System Design**
+- 💡 Interested in Backend Development and Full Stack Web Development
+- 🔭 Working on personal and academic software projects
+- 📚 Always exploring better software architecture and clean code practices
+- 🎯 Looking for a **Software Engineer / Java Backend Intern** opportunity
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Java
+- JavaScript
+- SQL
+- HTML
+- CSS
+
+### Backend
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- RESTful API
+- JWT Authentication
+
+### Frontend
+- React
+- Vite
+- Bootstrap
+- Tailwind CSS
+
+### Database
+- MySQL
+- MongoDB
+
+### Tools
+- Git
+- GitHub
+- Postman
+- Docker (Learning)
+- Jira
+- Railway
+- Enterprise Architect
+
+---
+
+## 📌 Featured Projects
+
+### 👕 Fashion Shop
+A multi-role e-commerce platform developed with Spring Boot following the MVC architecture.
+
+**Highlights**
+- Multi-role authentication (Admin, Vendor, Shipper, User)
+- Product & Order Management
+- Revenue Dashboard
+- PDF Report Export
+- VNPAY Integration
+- WebSocket Real-time Chat
+- MySQL + Spring Data JPA
+
+**Tech**
+Java • Spring Boot • Spring Security • MySQL • JSP • Bootstrap • Railway
+
+---
+
+> *"Keep learning, keep building, and never stop improving."*
