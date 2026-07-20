@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Hello%2C%20Danh%20Vo-000000?style=for-the-badge&logo=starship&logoColor=white" alt="Header" />
+  <img src="https://img.shields.io/badge/Hello%2C%20Minh%20Danh-000000?style=for-the-badge&logo=starship&logoColor=white" alt="Header" />
 
   <h1>🚀 Welcome to my GitHub!</h1>
   <h3>Software Engineering Student | Java Backend Developer | Full-Stack Enthusiast</h3>
@@ -8,7 +8,7 @@
   <br>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00C2FF" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=mzanh289&color=00C2FF" alt="Profile Views" />
   </p>
 
 </div>
@@ -126,18 +126,6 @@
 ### 📈 GitHub Analytics & Streak
 
 <div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=mzanh289&theme=darkhub&column=6&margin-w=10&margin-h=10&no-bg=true" />
-</a>
-
-<br>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mzanh289&show_icons=true&theme=synthwave&hide_border=true&border_radius=10"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzanh289&layout=compact&theme=synthwave&hide_border=true&border_radius=10"/>
-
-<br>
 
 <img src="https://streak-stats.demolab.com?user=mzanh289&theme=dark&hide_border=true&border_radius=10"/>
 
