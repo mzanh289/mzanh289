@@ -165,7 +165,7 @@ React • Node.js • Express • MongoDB • JWT
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mzanh289&theme=react-dark&hide_border=true&area=true" />
 
 </div>
 
@@ -176,7 +176,7 @@ React • Node.js • Express • MongoDB • JWT
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&column=6&margin-w=10&margin-h=10&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=mzanh289&theme=darkhub&column=6&margin-w=10&margin-h=10&no-bg=true" />
 </a>
 
 <br>
@@ -197,7 +197,7 @@ React • Node.js • Express • MongoDB • JWT
 
 <div align="center">
 
-<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://github.com/mzanh289/mzanh289/blob/output/github-contribution-grid-snake.svg" />
 
 </div>
 
