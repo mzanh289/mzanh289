@@ -32,15 +32,15 @@
 
 <div align="center">
 
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/mzanh289">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:minhdanh2824@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/danh-minh-641079423">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
@@ -113,54 +113,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-<div align="center">
-
-### 👕 Fashion Shop
-
-A multi-role e-commerce platform built with **Java Spring Boot** and **MySQL**.
-
-**Highlights:**
-
-- Multi-role authentication (Admin, Vendor, Shipper, User)
-- Product & Order Management
-- Vendor Dashboard
-- Revenue Statistics
-- PDF Report Export
-- VNPAY Sandbox Payment Integration
-- Real-time Chat using WebSocket
-- JWT Authentication
-
-**Tech Stack**
-
-Java • Spring Boot • Spring Security • JPA • MySQL • JSP • Bootstrap
-
-
----
-
-### 📚 ELMS - Learning Management System
-
-A full-stack learning platform supporting online courses and student management.
-
-**Highlights:**
-
-- Course Management
-- Enrollment System
-- Reviews & Ratings
-- Flashcard Learning
-- User Authentication
-- Responsive UI
-
-**Tech Stack**
-
-React • Node.js • Express • MongoDB • JWT
-
-
-</div>
-
----
-
 ### 📊 GitHub Activity Graph
 
 <div align="center">
@@ -181,13 +133,13 @@ React • Node.js • Express • MongoDB • JWT
 
 <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=synthwave&hide_border=true&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mzanh289&show_icons=true&theme=synthwave&hide_border=true&border_radius=10"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=synthwave&hide_border=true&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzanh289&layout=compact&theme=synthwave&hide_border=true&border_radius=10"/>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&border_radius=10"/>
+<img src="https://streak-stats.demolab.com?user=mzanh289&theme=dark&hide_border=true&border_radius=10"/>
 
 </div>
 
